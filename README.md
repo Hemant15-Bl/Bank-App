@@ -28,7 +28,7 @@ The banking application offers the following features:
  - MySQL: Database used for storing and managing user data.
  - Maven: Build system used for building and managing dependencies.
  - OOP.
- _ State Design Pattern.
+ - State Design Pattern.
  
 ## This app features:
 Send money to another account
