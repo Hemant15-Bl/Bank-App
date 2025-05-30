@@ -1,4 +1,4 @@
-# Overview
+## Overview
 A Bank App is dedicated web application or mobile friendly website. Android devices using Java. The application provides users with the ability to perform various banking operations and manage their accounts conveniently from their mobile devices.
 
 ## Features
@@ -14,7 +14,7 @@ The banking application offers the following features:
 - Users can manage their beneficiary list for easy fund transfers.
 
 3. Notifications
-Users receive notifications for successful transactions, and other important account-related updates.
+- Users receive notifications for successful transactions, and other important account-related updates.
 
 4. Security
 - The application ensures secure communication using encryption protocols (e.g., HTTPS).
@@ -22,13 +22,13 @@ Users receive notifications for successful transactions, and other important acc
 - Data is securely stored on the device and server.
 
 ## Technologies Used
- . Java: Programming language used for application development.
- . Tool: Spring Tool Suits (IDE) for Android development.
- . XML: Markup language used for designing user interfaces.
- . MySQL: Database used for storing and managing user data.
- . Maven: Build system used for building and managing dependencies.
- . OOP.
- . State Design Pattern.
+ - Java: Programming language used for application development.
+ - Tool: Spring Tool Suits (IDE) for Android development.
+ - XML: Markup language used for designing user interfaces.
+ - MySQL: Database used for storing and managing user data.
+ - Maven: Build system used for building and managing dependencies.
+ - OOP.
+ _ State Design Pattern.
  
 ## This app features:
 Send money to another account
