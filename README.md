@@ -1,6 +1,9 @@
 ## Overview
 A Bank App is dedicated web application or mobile friendly website. Android devices using Java. The application provides users with the ability to perform various banking operations and manage their accounts conveniently from their mobile devices.
 
+## Live Demo
+http://bankapp-env.eba-pgqq3njd.us-east-1.elasticbeanstalk.com/login
+
 ## Features
 The banking application offers the following features:
 
